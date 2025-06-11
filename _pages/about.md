@@ -27,7 +27,7 @@ Publications
 - [5] **Degang Wang**, Lianru Gao, Ying Qu, Xu Sun, Wenzhi Liao. Frequency-to-Spectrum Mapping GAN for Semisupervised Hyperspectral Anomaly Detection [J]. CAAI Transactions on Intelligence Technology, 2023, 8(4): 1258-1273. (第一作者, **SCI, IF: 8.4, 中科院1区Top, <span style="color: red;">Wiley 2023年度高被引论文</span>**)[[Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12154)]
 - [6] **Degang Wang**, Longfei Ren, Xu Sun, Lianru Gao, Jocelyn Chanussot. Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral Anomaly Detection [J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 6981-6993. (第一作者, **SCI, IF: 4.7, 中科院2区**)[[Link](ieeexplore.ieee.org/document/10890991)][[Code](https://github.com/DegangWang97/IEEE_JSTARS_NL2Net)]
 - [7] **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Xiaobin Zhao. Global Feature-Injected Blind-Spot Network for Hyperspectral Anomaly Detection [J]. IEEE Geoscience and Remote Sensing Letters, 2024, 21: 5509305. (第一作者, **SCI, IF: 4, 中科院3区**)[[Link](ieeexplore.ieee.org/document/10648847)][[Code](https://github.com/DegangWang97/IEEE_GRSL_PUNNet)]
-- [8] 王德港, 饶伟强, 孙旭, 渠瀛, 刘雪梅, 高连如. 结合孪生网络和像元配对的高光谱图像异常检测 [J]. 中国图象图形学报, 2021, 26(08): 1860-1870. (第一作者, CSCD)[[Link](https://www.cjig.cn/thesisDetails#10.11834/jig.210073&lang=zh)]
+- [8] **王德港**, 饶伟强, 孙旭, 渠瀛, 刘雪梅, 高连如. 结合孪生网络和像元配对的高光谱图像异常检测 [J]. 中国图象图形学报, 2021, 26(08): 1860-1870. (第一作者, CSCD)[[Link](https://www.cjig.cn/thesisDetails#10.11834/jig.210073&lang=zh)]
 - [9] **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Ye Liu. Blind-Block Reconstruction Network with a Guard Window for Hyperspectral Anomaly Detection [C]//2023 International Conference on Remote Sensing, Mapping and Geographic Information Systems. SPIE, 2023: 128152E. (第一作者, EI)[[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12815/128152E/Blind-block-reconstruction-network-with-a-guard-window-for-hyperspectral/10.1117/12.3010359.short)]
 - [10] Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Degang Wang**, Pan Chen. A Deeply Supervised Vertex Network for Road Network Graph Extraction in High-Resolution Images [J]. International Journal of Applied Earth Observation and Geoinformation. 2024, 133: 104082. (第七作者, **SCI, IF: 7.6, 中科院1区Top**)[[Link](https://www.sciencedirect.com/science/article/pii/S1569843224004369)]
 - [11] Qiong Ran, Hong Zhong, Xu Sun, **Degang Wang**, He Sun. Large-Kernel Central Block Masked Convolution and Channel Attention-Based Reconstruction Network for Anomaly Detection of High-Resolution Hyperspectral Imagery [J]. Remote Sensing. 2024, 16(22): 4125. (第四作者, **SCI, IF: 4.2, 中科院2区**)[[Link](https://www.mdpi.com/2072-4292/16/22/4125)]
@@ -74,17 +74,17 @@ Reviewer
 
 Awards
 ======
-- 2025，中国科学院院长优秀奖
+- 2025，**中国科学院院长优秀奖***
 - 2025，中国科学院大学2024-2025学年三好学生标兵
 - 2025，中国科学院空天信息创新研究院优秀学术报告荣誉
-- 2024，博士研究生国家奖学金
+- 2024，**博士研究生国家奖学金**
 - 2024，第八届全国成像光谱对地观测学术研讨会优秀论文奖（序1）
 - 2024，中国科学院空天信息创新研究院学业奖学金一等奖
 - 2024，第一届山海杯国土空间数字化场景工具创新大赛优秀奖（序7）
-- 2024，2024年度中国科学院空天信息创新研究院优秀研究生特等奖学金
+- 2024，**2024年度中国科学院空天信息创新研究院优秀研究生特等奖学金**
 - 2024，中国科学院空天信息创新研究院2023-2024年度优秀共青团员
 - 2023，第三届中国图象图形学报研究生学术论坛突出报告奖
-- 2023，2023年度中国科学院大学朱李月华奖学金
+- 2023，**2023年度中国科学院大学朱李月华奖学金**
 - 2023，《遥感学报》研究生学术论坛三等奖
 - 2023，国际学术会议RSMG 2023优秀论文奖
 - 2023，国际学术会议RSMG 2023最佳口头报告奖
