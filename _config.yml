@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Degang Wang/Personal Homepage"
+title                    : "Degang Wang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Degang Wang"
 description              : &description "Ph. D. in Aerospace Information Research Institute, Chinese Academy of Sciences"
@@ -75,6 +75,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  WeChat           : Together0908o_o
+  email            : wangdegang20@mails.ucas.ac.cn
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
