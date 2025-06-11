@@ -1,49 +1,89 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+王德港，1997年生，河北张家口人，[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)直博五年级在读（预计2025年6月毕业）。研究方向为高光谱遥感、目标探测、异常检测、波段选择、深度学习。目前，共发表学术论文12篇，其中，以第一作者身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并申请国家发明专利2项。其中，中科院1区Top论文5篇（4篇入选ESI高被引论文，1篇入选Wiley 2023年度高被引论文），EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TGRS、IEEE JSTAR、IEEE GRSL、IF、NN、ESWA、KBS、EAAI等20多个国际知名SCI期刊独立审稿人。先后获中国科学院院长优秀奖、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖、中国科学院空天信息创新研究院一等学业奖学金、中国科学院空天信息创新研究院优秀共青团员等荣誉奖励。
 
-A data-driven personal website
+Education Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- 2020.09-2025.06: Ph.D. in  Key Laboratory of Computational Optical Imaging
+Technology, Aerospace Information Research Institute, Chinese Academy of Sciences. Supervisor: [Lianru Gao](https://people.ucas.ac.cn/~gaolianru) (高连如，国家杰青、国家优青、IET Fellow) & [Lina Zhuang](https://sites.google.com/view/linazhuang/home) (庄丽娜，海外优青、中科院百人计划)
+- 2016.09-2020.06: B.S. in School of Electronics and Information Engineering, Hebei University of Technology.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- [1] Lianru Gao, **Degang Wang**, Lina Zhuang, Xu Sun, Min Huang, Antonio Plaza. BS3LNet: A New Blind-Spot Self-Supervised Learning Network for Hyperspectral Anomaly Detection [J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5504218. (学生一作, SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>)
+- [2] **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Min Huang, Antonio Plaza. PDBSNet: Pixel-Shuffle Downsampling Blind-Spot Reconstruction Network for Hyperspectral Anomaly Detection [J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5511914. (第一作者, SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>) 
+- [3] **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Min Huang, Antonio Plaza. BockNet: Blind-Block Reconstruction Network with a Guard Window for Hyperspectral Anomaly Detection [J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5531916. (第一作者, SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>) 
+- [4] **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Xiaobin Zhao, Antonio Plaza. Sliding Dual-Window-Inspired Reconstruction Network for Hyperspectral Anomaly Detection [J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 5504115. (第一作者, SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>)
+- [5] **Degang Wang**, Lianru Gao, Ying Qu, Xu Sun, Wenzhi Liao. Frequency-to-Spectrum Mapping GAN for Semisupervised Hyperspectral Anomaly Detection [J]. CAAI Transactions on Intelligence Technology, 2023, 8(4): 1258-1273. (第一作者, SCI, IF: 8.4, 中科院1区Top, <span style="color: red;">Wiley 2023年度高被引论文</span>)
+- [6] **Degang Wang**, Longfei Ren, Xu Sun, Lianru Gao, Jocelyn Chanussot. Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral Anomaly Detection [J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 6981-6993. (第一作者, SCI, IF: 4.7, 中科院2区)
+- [7] **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Xiaobin Zhao. Global Feature-Injected Blind-Spot Network for Hyperspectral Anomaly Detection [J]. IEEE Geoscience and Remote Sensing Letters, 2024, 21: 5509305. (第一作者, SCI, IF: 4, 中科院3区)
+- [8] 王德港, 饶伟强, 孙旭, 渠瀛, 刘雪梅, 高连如. 结合孪生网络和像元配对的高光谱图像异常检测 [J]. 中国图象图形学报, 2021, 26(08): 1860-1870. (第一作者, CSCD)
+- [9] **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Ye Liu. Blind-Block Reconstruction Network with a Guard Window for Hyperspectral Anomaly Detection [C]//2023 International Conference on Remote Sensing, Mapping and Geographic Information Systems. SPIE, 2023: 128152E. (第一作者, EI)
+- [10] Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Degang Wang**, Pan Chen. A Deeply Supervised Vertex Network for Road Network Graph Extraction in High-Resolution Images [J]. International Journal of Applied Earth Observation and Geoinformation. 2024, 133: 104082. (第七作者, SCI, IF: 7.6, 中科院1区Top)
+- [11] Qiong Ran, Hong Zhong, Xu Sun, **Degang Wang**, He Sun. Large-Kernel Central Block Masked Convolution and Channel Attention-Based Reconstruction Network for Anomaly Detection of High-Resolution Hyperspectral Imagery [J]. Remote Sensing. 2024, 16(22): 4125. (第四作者, SCI, IF: 4.2, 中科院2区)
+- [12] Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni. Spatial Sampling and Grouping Information Entropy Strategy Based on Kernel Fuzzy C-Means Clustering Method for Hyperspectral Band Selection [J]. Remote Sensing, 2022, 14(19): 5058. (第二作者, SCI, IF: 4.2, 中科院2区)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Fundings
+======
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+Reviewer
+======
+- IEEE Transactions on Image Processing
+- IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 
+- IEEE Geoscience and Remote Sensing Letters
+- Remote Sensing
+- Journal of Applied Remote Sensing
+- Information Fusion
+- Knowledge-Based Systems
+- Expert Systems with Applications
+- Engineering Applications of Artificial Intelligence
+- Applied Soft Computing
+- Neural Networks
+- Computer Vision and Image Understanding
+- Neurocomputing
+- Measurement
+- Applied Artificial Intelligence
+- Scientific Reports
+- Infrared Physics and Technology
+- Multimedia Systems
+- IET Image Processing
+- The Journal of Supercomputing
+- Journal of Electronic Imaging
+- PLOS One
+- Journal of Circuits, Systems, and Computers
+- Remote Sensing Applications: Society and Environment
+- International Journal of Data Science and Analytics
+- Multimodal Transportation
+- IEEE International Geoscience and Remote Sensing Symposium
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Awards
+======
+- 2025，中国科学院院长优秀奖
+- 2025，中国科学院大学2024-2025学年三好学生标兵
+- 2025，中国科学院空天信息创新研究院优秀学术报告荣誉
+- 2025，中国地质大学（北京）第二届优秀青年学者论坛二等奖
+- 2024，博士研究生国家奖学金
+- 2024，第八届全国成像光谱对地观测学术研讨会优秀论文奖（序1）
+- 2024，中国科学院空天信息创新研究院学业奖学金一等奖
+- 2024，第一届山海杯国土空间数字化场景工具创新大赛优秀奖（序7）
+- 2024，2024年度中国科学院空天信息创新研究院优秀研究生特等奖学金
+- 2024，中国科学院空天信息创新研究院2023-2024年度优秀共青团员
+- 2023，第三届中国图象图形学报研究生学术论坛突出报告奖
+- 2023，2023年度中国科学院大学朱李月华奖学金
+- 2023，《遥感学报》研究生学术论坛三等奖
+- 2023，国际学术会议RSMG 2023优秀论文奖
+- 2023，国际学术会议RSMG 2023最佳口头报告奖
+- 2023，2023年度中国科学院空天信息创新研究院企业冠名奖学金一等奖
+- 2022，中国科学院空天信息创新研究院学业奖学金一等奖
+- 2022，中国科学院大学2021-2022学年三好学生
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
