@@ -20,6 +20,8 @@ Technology, Aerospace Information Research Institute, Chinese Academy of Science
 
 Publications
 ======
+More papers info., please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl=zh-CN) (470+ citations)
+
 - [1] Lianru Gao, **Degang Wang**, Lina Zhuang, Xu Sun, Min Huang, Antonio Plaza. BS3LNet: A New Blind-Spot Self-Supervised Learning Network for Hyperspectral Anomaly Detection [J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5504218. (学生一作, **SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**)[[Link](https://ieeexplore.ieee.org/abstract/document/10049187)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BS3LNet)]
 - [2] **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Min Huang, Antonio Plaza. PDBSNet: Pixel-Shuffle Downsampling Blind-Spot Reconstruction Network for Hyperspectral Anomaly Detection [J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5511914. (第一作者, **SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**)[[Link](https://ieeexplore.ieee.org/abstract/document/10124448)][[Code](https://github.com/DegangWang97/IEEE_TGRS_PDBSNet)]
 - [3] **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Min Huang, Antonio Plaza. BockNet: Blind-Block Reconstruction Network with a Guard Window for Hyperspectral Anomaly Detection [J]. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5531916. (第一作者, **SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**)[[Link](ieeexplore.ieee.org/abstract/document/10330742)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BockNet)]
